@@ -1,0 +1,1 @@
+Server=INLN50899757A\SQLEXPRESS; Database=bits; Trusted_Connection=True;
